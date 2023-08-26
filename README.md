@@ -2,17 +2,6 @@
 
 Bienvenido al proyecto de Data Analytics sobre oportunidades de inversión en el Top 10 del MarketCap de criptomonedas. Este análisis tiene como objetivo identificar patrones y tendencias en el mercado de criptomonedas para ayudar en la toma de decisiones de inversión.
 
-## Tabla de Contenidos
-
-1. Introducción
-2. Métricas Clave
-3. Conjunto de Datos
-4. KPIs Relevantes
-5. Modelo de Datos
-6. Visualización de Resultados
-7. Conclusiones
-8. Referencias
-
 ## Introducción
 
 El objetivo principal de este proyecto es identificar oportunidades de inversión en el Top 10 del MarketCap de criptomonedas. Para lograr esto, hemos realizado un proceso de Extracción, Transformación y Carga (ETL) de datos provenientes de diversas fuentes y realizado un análisis exploratorio de datos (EDA) para obtener información valiosa.
